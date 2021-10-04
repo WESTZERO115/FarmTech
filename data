@@ -7,7 +7,8 @@
 -> 기상   
 공공데이터 출처 : https://oasis.krei.re.kr/analyzer/naqs.do 
 
-5대 품목 위주로. 감자,무,배추,
+5대 품목 위주로. [배추,양파,무,고추,마늘]
 그 외 데이터는 중간중간 비어있어도 넘어가기.
 
-
+** 농산물유통정보 KAMIS 
+-> API-KEY : 8aaef830-202f-441b-b7bb-28d95d0b3afa
