@@ -2,10 +2,11 @@
 연도별로. 
 
 ** 데이터 **
--> 공급량 ; 생산량.
--> 수요량 ; 반입량. 
+-> 공급량 ; 생산량.(연도별)
+-> 수요량 ; (시장)반입량.(월별)
 -> 기상   
-공공데이터 출처 : https://oasis.krei.re.kr/analyzer/naqs.do 
+공공데이터 출처 : https://oasis.krei.re.kr/analyzer/naqs.do(공급량:연도별)
+                https://oasis.krei.re.kr/analyzer/marketTrends/wholesale.do(수요량:월별)
 
 5대 품목 위주로. [배추,양파,무,고추,마늘]
 그 외 데이터는 중간중간 비어있어도 넘어가기.
